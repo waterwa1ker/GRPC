@@ -3,6 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Java-white)
 ![Static Badge](https://img.shields.io/badge/Python-white)
 ![Static Badge](https://img.shields.io/badge/gRPC-white)
+![Static Badge](https://img.shields.io/badge/Maven-white)
 
 ## Задача
 
